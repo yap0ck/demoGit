@@ -1,2 +1,2 @@
-public class YannException {
+public class YannException extends RuntimeException {
 }
